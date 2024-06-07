@@ -1,0 +1,17 @@
+Description:
+
+This project connects uses web scraping in Python to extract data about the planet Mars and perform a basic analysis
+
+Folder contents:
+
+.gitignore
+mars_data.csv
+part_1_mars_news.ipynb
+part_2_mars_weather.ipynb
+text_pairs.csv
+README
+
+Contact info:
+
+Tyler Potts
+twpotts11@gmail.com
